@@ -1,5 +1,5 @@
 # neural_network_rep
-# Emotion Recognition using MFCC and Neural Networks (Arabic Audio)
+# Emotion Recognition using MFCC and Neural Networks 
 
 ## Description
 
