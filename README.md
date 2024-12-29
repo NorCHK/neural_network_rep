@@ -21,11 +21,11 @@ Currently, the model achieves an accuracy of around 40%, which is suboptimal.
 
 To run this project, you will need to install the following Python libraries:
 
-numpy
-matplotlib
-tensorflow
-scikit-learn
-pandas
+_ numpy
+_ matplotlib
+_ tensorflow
+_ scikit-learn
+_ pandas
 
 
 ### Clone the Repository
