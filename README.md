@@ -19,7 +19,14 @@ Currently, the model achieves an accuracy of around 40%, which is suboptimal.
 
 ## Installation
 
-To run this project, you will need Python along with the required dependencies. Follow the instructions below to set up the project on your local machine.
+To run this project, you will need to install the following Python libraries:
+
+numpy
+matplotlib
+tensorflow
+scikit-learn
+pandas
+
 
 ### Clone the Repository
 
